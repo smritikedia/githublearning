@@ -5,3 +5,6 @@ Emojis
 Wallpaper
 Themes
 Typing options
+
+audio options
+video calls
