@@ -8,3 +8,7 @@ Typing options
 
 audio options
 video calls
+
+payment options added
+send money
+receive money
